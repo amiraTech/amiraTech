@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Amira 👋
 
-<!--
-**amiraTech/amiraTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 1st-year Business IT student at the University of Kent. I'm interested in how technology can drive business solutions and am working on building a strong foundation in both tech and business principles. 
 
-Here are some ideas to get you started:
+### 🛠️ Skills:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Programming Languages**: HTML, CSS, JavaScript, Python, C#
+- **Tools & Technologies**: Microsoft Office 365 (Advanced), Git, PyCharm, Visual Studio IDE
+
+### 📚 What I'm Learning:
+- Currently exploring JavaScript.
+- Developing skills that help bridge the gap between business and technology.
+
+### 🌱 Interests:
+- Technology, Fitness, Reading, Programming, Football, Basketball
