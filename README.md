@@ -1,6 +1,6 @@
 ## Hi, I'm Amira 👋
 
-I'm a 1st-year Business IT student at the University of Kent. I'm interested in how technology can drive business solutions and am working on building a strong foundation in both tech and business principles. 
+I'm a Business IT student at the University of Kent. I'm interested in how technology can drive business solutions and am working on building a strong foundation in both tech and business principles. 
 
 ### 🛠️ Skills:
 
