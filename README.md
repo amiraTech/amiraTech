@@ -12,4 +12,4 @@ I'm a Business IT student at the University of Kent. I'm interested in how techn
 - Developing skills that help bridge the gap between business and technology.
 
 ### 🌱 Interests:
-- Technology, Fitness, Reading, Programming, Football, Basketball
+- Technology, Fitness, Reading, Programming, Football
