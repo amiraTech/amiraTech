@@ -4,7 +4,7 @@ I'm a Business IT student at the University of Kent. I'm interested in how techn
 
 ### 🛠️ Skills:
 
-- **Programming Languages**: HTML, CSS, JavaScript, Python, C#
+- **Programming Languages**: HTML, CSS, JavaScript, Python, C#, Java
 - **Tools & Technologies**: Microsoft Office 365 (Advanced), Git, PyCharm, Visual Studio IDE
 
 ### 🌱 Interests:
