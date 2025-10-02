@@ -12,4 +12,4 @@ I'm a Business IT student at the University of Kent. I'm interested in how techn
 - [PromptQuest:](https://github.com/oyefola/spicyforerunners) A educational gamified app integrating OpenAI API to foster creativity and critical thinking in children. Developed collaboratively in a 4-day hackathon at Google.
 
 ### 🌱 Interests:
-- Finance, Technology, Fitness, Football
+- Gaming, Finance, Technology, Fitness, Football
